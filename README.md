@@ -37,7 +37,7 @@ Me considero una persona creativa, apasionada por la tecnología y siempre dispu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nBenjaminPr)](https://github.com/nBenjaminPr/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nBenjaminPr&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nBenjaminPr&show_icons=true&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/nBenjaminPr)  
 
