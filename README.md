@@ -1,65 +1,45 @@
 ### Hi there, I'm [nBenjaminPr !](https://nBenjaminPr .codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+#### Soy desarrollador web fullstack. 
+![Soy desarrollador web fullstack. ](https://static.javatpoint.com/blog/images/mern-stack.png)
+
+¡Hola! Soy un programador Full Stack con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona trabajar en proyectos desafiantes que me permitan seguir aprendiendo y creciendo profesionalmente.
+
+Mi experiencia en el desarrollo web incluye el uso de tecnologías como HTML, CSS, JavaScript y frameworks como React. También tengo experiencia en el desarrollo de bases de datos utilizando MongoDB
+
+Además, estoy familiarizado con herramientas de control de versiones como Git, así como con metodologías de desarrollo ágil como Scrum.
+
+Me considero una persona creativa, apasionada por la tecnología y siempre dispuesta a enfrentar nuevos desafíos. Me gusta trabajar en equipo y compartir conocimientos para lograr resultados exitosos.
 
 
-<br/>
-<a href="https://twitter.com/">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=nBenjaminPr.nBenjaminPr)
-
-<br />
-
-### Hi 🙋‍♂️,
-### I'm 26 years old Self-taught Full-Stack developer from Argentina.
+- 🔭 Estoy trabajando en proyectos autónomos de apps web 
+- 📫 Cómo contactarme: ... 
 
 
-#### - 🥀NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-#### - 🔭 SpaceX FanBoi, 
-
-#### - 🛸 Into Hight Energy Physics and Astrophysics
-
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/ /)
-
-
-<br />
-
-
-**I am Into , 🙏**
-
-**😼**
-<br />
-
-
-[![nBenjaminPr GitHub stats](https://github-readme-stats.vercel.app/api?username=nBenjaminPr)](https://github.com/nBenjaminPr/github-readme-stats)
-
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nBenjaminPr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nBenjaminPr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://encuestas-online-15i.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nBenjaminPr)](https://github.com/nBenjaminPr/github-readme-stats)
 
-*************
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nBenjaminPr&show_icons=true)  
 
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
-
-
-***********************************
-
-#### Thank You-🙏🏼
+![Profile views](https://gpvc.arturio.dev/nBenjaminPr)  
 
 
 
