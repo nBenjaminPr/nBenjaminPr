@@ -12,7 +12,7 @@ Me considero una persona creativa, apasionada por la tecnología y siempre dispu
 
 
 - 🔭 Estoy trabajando en proyectos autónomos de apps web 
-- 📫 Cómo contactarme: ... 
+- 📫 Cómo contactarme: nicobenpe@gmail.com
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ Me considero una persona creativa, apasionada por la tecnología y siempre dispu
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nBenjaminPr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nBenjaminPr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://encuestas-online-15i.netlify.app/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nBenjaminPr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lic-nicol%C3%A1s-benjam%C3%ADn-pereira-135a3b149/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://encuestas-online-15i.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nBenjaminPr)](https://github.com/nBenjaminPr/github-readme-stats)
 
