@@ -1,4 +1,4 @@
-### Hi there, I'm [nBenjaminPr !](https://nBenjaminPr .codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Pereira Nicolas !](https://nBenjaminPr .codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 #### Soy desarrollador web fullstack. 
 ![Soy desarrollador web fullstack. ](https://static.javatpoint.com/blog/images/mern-stack.png)
 
@@ -11,9 +11,9 @@ Además, estoy familiarizado con herramientas de control de versiones como Git, 
 Me considero una persona creativa, apasionada por la tecnología y siempre dispuesta a enfrentar nuevos desafíos. Me gusta trabajar en equipo y compartir conocimientos para lograr resultados exitosos.
 
 
-- 🔭 Estoy trabajando en proyectos autónomos de apps web 
+- 🔭 Estoy trabajando en proyectos autónomos de apps web.
 - 📫 Cómo contactarme: nicobenpe@gmail.com
-
+- 🏀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
