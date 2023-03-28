@@ -43,6 +43,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nBenjaminPr)](https://github.com/nBenjaminPr/github-readme-stats)
+
 *************
 
 <br />
