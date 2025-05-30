@@ -1,19 +1,40 @@
-### Hi there, I'm [Pereira Nicolas !](https://nBenjaminPr .codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-#### Soy desarrollador web fullstack. 
-![Soy desarrollador web fullstack. ](https://static.javatpoint.com/blog/images/mern-stack.png)
+# 👋 Hola, soy Nicolás Benjamín Pereira
 
-¡Hola! Soy un programador Full Stack con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona trabajar en proyectos desafiantes que me permitan seguir aprendiendo y creciendo profesionalmente.
+🎓 Licenciado en Recursos Humanos | 💼 Especializado en People Analytics y Data Analytics  
+📊 Aplico análisis de datos para optimizar la gestión del talento  
+💻 Uso Power BI, SQL, Excel y Python para transformar datos en decisiones estratégicas
 
-Mi experiencia en el desarrollo web incluye el uso de tecnologías como HTML, CSS, JavaScript y frameworks como React. También tengo experiencia en el desarrollo de bases de datos utilizando MongoDB
+---
 
-Además, estoy familiarizado con herramientas de control de versiones como Git, así como con metodologías de desarrollo ágil como Scrum.
+## 🚀 Sobre mí
 
-Me considero una persona creativa, apasionada por la tecnología y siempre dispuesta a enfrentar nuevos desafíos. Me gusta trabajar en equipo y compartir conocimientos para lograr resultados exitosos.
+Soy profesional de RRHH con una visión enfocada en datos. Tengo experiencia en payroll, selección de personal (incluyendo perfiles IT), gestión de ausentismo, horas extras y administración de legajos.
 
+Actualmente me capacito en **People Analytics** y **Python aplicado al análisis de datos**. Utilizo herramientas como **Power BI, Excel y SQL** para automatizar procesos, crear dashboards e impulsar la toma de decisiones basada en indicadores.
 
-- 🔭 Estoy trabajando en proyectos autónomos de apps web.
-- 📫 Cómo contactarme: nicobenpe@gmail.com
-- 🏀 Portafolio: https://portafolio-np.netlify.app/
+---
+
+## 🧠 Habilidades técnicas
+
+- **Python:** pandas, numpy, matplotlib, seaborn  
+- **SQL:** consultas, joins, filtros y reportes  
+- **Power BI:** dashboards dinámicos, KPI, segmentaciones  
+- **Excel Avanzado:** tablas dinámicas, fórmulas, automatización  
+- **Metodologías:** Scrum, HR Analytics, automatización de procesos  
+
+---
+
+## 📫 Contacto
+
+- 📍 San Miguel de Tucumán, Argentina  
+- ✉️ nicobenpe@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolás-benjamín-pereira-lic-en-rrhh-y-selección-de-perfiles-it/)  
+- 🌐 [GitHub](https://github.com/nBenjaminPr)
+
+---
+
+_“Los datos no reemplazan la intuición, la complementan. En Recursos Humanos, analizar es cuidar mejor.”_
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
